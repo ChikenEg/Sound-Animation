@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f8dc7d15a0c26444b046d4d8d63feb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - musicClipOne: {fileID: 8300000, guid: 0288c04e4870f2a4e8e930c9cb6520b8, type: 3}
+  - musicClipTwo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
